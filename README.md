@@ -123,5 +123,7 @@ All data was obtained from the public database CryoET Data Portal. The Chlamydom
 
 Training data: https://cryoetdataportal.czscience.com/runs/14122?table-tab=Tomograms0 
 
+Download tomogram for the tomogram, and download membrane annotations under annotions.
+
  
 
