@@ -1,0 +1,2 @@
+Best validation loss: 0.2079
+Testing loss: 0.4199
