@@ -6,7 +6,7 @@ This research project features a 2.5D UNet for membrane segmentation in cryo-ele
 
 
 
-This project uses patching from a cryo ET to obtain useful data where membrane annotations exist. Then this data is fed through a UNet built using PyTorch Convolutional layers. Then the model is trained using randomly sampled patches measured by loss function with both BCE and dice components. Finally, inference is done on a full tomogram by tiling and stitching to manage large data and visualized.
+This project uses patching from a cryo ET to obtain useful data where membrane annotations exist. Then this data is fed through a UNet built using PyTorch Convolutional layers. Then the model is trained using randomly sampled patches measured by loss function with both BCE and dice components. Finally, inference is done on a full tomogram by tiling and stitching to manage large data and visualization.
 
 
 ## Data processing and patching
